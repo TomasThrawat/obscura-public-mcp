@@ -1,0 +1,9 @@
+{
+  "name": "obscura-public-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  }
+}
